@@ -1,0 +1,21 @@
+
+body{
+    background-color: lightpink;
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 100px;
+    font-family: sans-serif;
+}
+
+#timer{
+    font-size: 30px;
+    margin-left: 900px;
+    font-family: sans-serif;
+}
+
+#sketch_to_be_drawn{
+    color: black;
+    font-family: sans-serif;
+}
